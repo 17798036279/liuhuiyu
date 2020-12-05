@@ -1,0 +1,22 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "- 列表项   - ​\t     - ​\t       - ​",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuhuiyu1652/liuhuiyu.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuhuiyu1652/liuhuiyu/issues"
+  },
+  "homepage": "https://github.com/liuhuiyu1652/liuhuiyu#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
